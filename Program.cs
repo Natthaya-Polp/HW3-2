@@ -5,7 +5,6 @@ class Program
     static void Main(string[] args)
     {
         Queue<char> Fruit = new Queue<char>();
-        Queue<char> Send = new Queue<char>();
         Queue<char> Output = new Queue<char>();
         Progress1(Fruit, Output);
     }
